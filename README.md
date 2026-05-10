@@ -1,6 +1,4 @@
-# Awesome Agentic-AI-papers
-
-# Awesome- Agentic AI Survey & Foundational Papers
+# Awesome Agentic AI Survey & Foundational Papers
 In this page, I will provide a curated list of the most popular and highly-cited papers on LLM-based agents, covering surveys, foundational methods, multi-agent systems, benchmarks, and applications. Papers are selected based on citation count, GitHub stars, and community impact. If there is a paper missing here, please open an issue or submit a pull request, and I would be happy to include it in this list.
 
 # Background
